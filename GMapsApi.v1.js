@@ -1,9 +1,10 @@
 ;(function (global, $) {
 
   /**
-   * @author Carlos Andrés Figueroa
+   * @author  Carlos Andrés Figueroa
+   * @email   carlosfh87@gmail.com
    * @version V1.0
-   * @class [Custom class based on Javascript Google maps API]
+   * @class   [Custom class based on Javascript Google maps API]
    */
 
   var MapsApi = function (selector, setup) {
