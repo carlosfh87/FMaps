@@ -178,23 +178,6 @@
 
       marker.setMap(self.map);
 
-      // if (icon) {
-      //  marker = new google.maps.Marker({
-      //    position: position,
-      //    icon: icon,
-      //    map: self.map
-      //  });
-      // }
-      // else{
-      //  marker = new google.maps.Marker();
-      //  marker.setMap(self.map);
-      //  marker.setPosition(position);
-      // };
-
-      // if(label){
-      //  marker.setLabel(label);
-      // }
-
       return marker;
     },
 
